@@ -21,7 +21,7 @@ jobs:
         uses: docker/login-action@v3
         with:
           username: sakshippatil
-          password: dckr_pat_GHEQbnt9CKnT19UFppMNU90Foh4
+          password: dckr_pat_-WNzECeNVALb3x8VQ1brJUFqOk0
 
       - name: Generate Docker tags
         id: meta
